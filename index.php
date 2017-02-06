@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
+	<h1>Coucou c'est mon code</h1>
 	<table>
 		<tr>
 			<td style='width: 30%;'>
